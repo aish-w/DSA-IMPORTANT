@@ -1,3 +1,6 @@
+// Input:-8
+// Output:-1000
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
