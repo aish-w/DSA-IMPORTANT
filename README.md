@@ -1,2 +1,2 @@
 # DSA-IMPORTANT
-All the basic to advance question.
+All the basic to advance questions.
