@@ -16,23 +16,23 @@ using namespace std;
 
 //default
 // declare a class
-class  Wall {
-    private:
-      double length;
+// class  Wall {
+//     private:
+//       double length;
   
-    public:
-      // default constructor to initialize variable
-      Wall()
-        : length{5.5} {
-        cout << "Creating a wall." << endl;
-        cout << "Length = " << length << endl;
-      }
-  };
+//     public:
+//       // default constructor to initialize variable
+//       Wall()
+//         : length{5.5} {
+//         cout << "Creating a wall." << endl;
+//         cout << "Length = " << length << endl;
+//       }
+//   };
   
-  int main() {
-    Wall wall1;
-    return 0;
-  }
+//   int main() {
+//     Wall wall1;
+//     return 0;
+//   }
 
 //parametrized
 // C++ program to calculate the area of a wall
