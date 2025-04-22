@@ -6,6 +6,7 @@ In a company, there are different sections like the accounts section, finance se
 The finance section handles all the financial transactions and keeps records of all the data related to finance.
 All the financial processes are done by this section.
 Similarly, the sales section handles all the sales-related activities and keeps records of all the sales.*/
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
